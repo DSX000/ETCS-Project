@@ -4,10 +4,15 @@
     surrounding blogger Kathy Sierra receiving death threats.
 
   -Take responsibility not just for your own words, but for the comments you allow on your blog.
+  
   -Label your tolerance level for abusive comments.
+  
   -Consider eliminating anonymous comments.
+  
   -Don't feed the trolls.
+  
   -If you know someone who is behaving badly, tell them so.
+  
   -Don't say anything online that you wouldn't say in person.
 
 **The positives.**
