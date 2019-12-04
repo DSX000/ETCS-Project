@@ -1,7 +1,7 @@
 **The Blogger's code of ethics.**
 
   The blogger's code of ethics was written by Tim O’Reilly and Jimmy Wales in response to controversy 
-    surrounding blogger Kathy Sierra revieivng death threats.
+    surrounding blogger Kathy Sierra receiving death threats.
 
   -Take responsibility not just for your own words, but for the comments you allow on your blog.
   -Label your tolerance level for abusive comments.
